@@ -49,7 +49,7 @@ Building intelligent systems, scalable backend architectures, and real-world ML 
 `CNN` `Transfer Learning` `Grad-CAM`
 
 ### 🌐 Web & Backend
-`MongoDB` `Express.js` `React.js` `Node.js`  
+`Flask` `MongoDB` `Express.js` `React.js` `Node.js`  
 `REST APIs` `JWT Auth` `Google OAuth`
 
 ### 🗄 Database & Tools
@@ -91,4 +91,4 @@ Building intelligent systems, scalable backend architectures, and real-world ML 
 
 ---
 
-⭐ *“⭐ A curious engineering student deeply interested in data science, machine learning, and building intelligent systems that turn real-world data into meaningful insights.”*
+⭐ *“A curious engineering student deeply interested in data science, machine learning, and building intelligent systems that turn real-world data into meaningful insights.”*
